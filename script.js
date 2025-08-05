@@ -1,5 +1,5 @@
 // Configuración WhatsApp
-const WHATSAPP_NUMBER = '5493811234567'; // reemplazá con tu número (ej: 5493811234567)
+const WHATSAPP_NUMBER = '5493816076130'; // reemplazá con tu número (ej: 5493811234567)
 const PRESET_MESSAGE = encodeURIComponent(
   'Hola, necesito asistencia de cerrajería en Alderetes.'
 );
